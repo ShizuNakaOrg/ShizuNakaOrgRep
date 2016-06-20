@@ -1,2 +1,2 @@
 # ShizuNakaOrgRep
-Organization Repository Test!! by Nakamura
+Organization Repository Test!! by S.Nakamura
